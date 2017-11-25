@@ -33,4 +33,8 @@ Tara flat out said that my cohort was clique-ish unlike other cohorts. My percep
 
 11/18/17 Hurrah! An entire week off to do as I please...although I still have to make Thanksgiving happen. Yup, I'm Emotional Laborer in Chief.
 
-11/24/17  Meh... I did not get as much done as I wanted to! But that's the way it is during a holiday. I've resolved that when I'm in a situation that I'm being interrupted that I'll just work on reviewing basics like html, css and javascript. Stuff that it doesn't matter if I have to set it aside for a bit. I did my first run thru' of react router unit. I'll go over it again tomorrow but for now I'm done. 
+11/24/17  Meh... I did not get as much done as I wanted to! But that's the way it is during a holiday. I decided I need to fit my tasks to my energy level and/or the situation. E.g., If I'm in a situation where I know I'm going to be interrupted then I should focus on review no matter how much I want to learn new material.
+
+I went through react router section. Pretty cool. Doesn't look too hard. Definitely cleaner looking than express.
+
+Tomorrow is Thanksgiving #2 so I'll have a lot on my plate. My goal: get through at least 80% of React Fundamentals course. Tonight I'm going to do some review of JavaScript. 
